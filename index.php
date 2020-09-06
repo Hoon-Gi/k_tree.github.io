@@ -5,7 +5,7 @@
     </head>
     <body>
         
-        <form action="r_test.html" method="POST">
+        <form action="r_test.php" method="POST">
             <label>개화시기:</label>
             <input name="x1" type="number" min="1" max="12"><br>
             <label>꽃차례:</label>
